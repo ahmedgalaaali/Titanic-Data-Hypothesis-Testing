@@ -1,7 +1,7 @@
 # **Requests**
-All requests of this project can be found in the **[Titanic Hypothesis Testing Scenarios](#https://github.com/ahmedgalaaali/Titanic-Data-Hypothesis-Testing/blob/main/Titanic%20Hypothesis%20Testing%20Scenarios.pdf)** file in the repo.
+All requests of this project can be found in the [Titanic Hypothesis Testing Scenarios](https://github.com/ahmedgalaaali/Titanic-Data-Hypothesis-Testing/blob/main/Titanic%20Hypothesis%20Testing%20Scenarios.pdf) file in the repo.
 
-Also, see the notebook published on [my Kaggle account](#https://www.kaggle.com/code/ahmedgalaaali/hypothesis-testing)
+Also, see the notebook published on [my Kaggle account](https://www.kaggle.com/code/ahmedgalaaali/hypothesis-testing)
 
 # **Steps Applied in the Notebook**
 - Environment Preparation & Importing Data
@@ -153,4 +153,7 @@ $p-value < \alpha(0.05)$
 
 $Z_s(14.62) > Z_c(1.96)$
 
+
 There's a **very strong** statistical evidence that there was a difference in survival rate between men and women from the titanic disaster. In fact, the survival rate of women was massive compared to men's, so that we **reject** the null hypothesis.
+
+<img width="473" height="505" alt="image" src="https://github.com/user-attachments/assets/8f61857a-1b33-4d69-b01a-4cd2372c38ea" />
